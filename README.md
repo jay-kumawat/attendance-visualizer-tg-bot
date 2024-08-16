@@ -10,7 +10,7 @@ This project is a Telegram bot designed to allow users to directly interact with
 - [File Structure](#file-structure)
 - [Acknowledgements](#acknowledgements)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -71,7 +71,3 @@ Contributions are welcome! Please open an issue to discuss what you would like t
 2. Create a new branch.
 3. Make your changes.
 4. Submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
