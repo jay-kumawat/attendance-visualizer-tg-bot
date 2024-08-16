@@ -1,4 +1,4 @@
-# Rollwala Attendance Visualizer Bot
+# Attendance Visualizer Telegram Bot
 
 This project is a Telegram bot designed to allow users to directly interact with a pre-existing attendance system project, which provides users with visual representations of their attendance data.
 
