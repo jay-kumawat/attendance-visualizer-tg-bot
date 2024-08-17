@@ -1,4 +1,4 @@
-TELEGRAM_BOT_TOKEN = '7011454157:AAEeNn9aaQbWP80uiCZG9AF16K__vKWAEUw'
+TELEGRAM_BOT_TOKEN = 'put your telegram token here'
 
 URLS = {
     "login_url": "https://attendence-system-1910.vercel.app/api/auth/login",
