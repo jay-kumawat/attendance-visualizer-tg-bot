@@ -97,7 +97,7 @@ def callback_query_handler(call, bot):
                     data.drop('Full Stack Web Development - practical', axis=1, inplace=True)
                 elif track_code == 1:
                     data.drop('Deep Learning', axis=1, inplace=True)
-                    data.drop('Deep Learning - practical', axis=1, inplace=True)
+                    data.drop('Deep Learning - Practical', axis=1, inplace=True)
                     data.drop('Computer Vision', axis=1, inplace=True)
                     data.drop('Computer Vision - practical', axis=1, inplace=True)
 
